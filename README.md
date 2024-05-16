@@ -1,6 +1,6 @@
 # code49-decoder
 
-Code49 Decoder **(For [Arknights](https://ak.hypergryph.com/) PV4 puzzle only)**
+Code49 Decoder **(For [Arknights](https://ak.hypergryph.com/) PV4 puzzle ONLY)**
 
 Thanks to [lukecyca](https://github.com/lukecyca)'s [code49 encoder](https://github.com/lukecyca/code49)
 
@@ -8,9 +8,9 @@ Thanks to [lukecyca](https://github.com/lukecyca)'s [code49 encoder](https://git
 
 ## About
 
-Decoder is written as a simple reverse program of [code49 encoder](https://github.com/lukecyca/code49).
+Decoder is written as a simple inverse program of [code49 encoder](https://github.com/lukecyca/code49).
 
-**Note:** [Code49 encoder](https://github.com/lukecyca/code49) is Python2 code, our decoder is Python3, so some of the original code are rewritten into Python3 grammar.
+**Note:** [Code49 encoder](https://github.com/lukecyca/code49) is in Python2, our decoder is in Python3, so some of the original codes are rewritten into Python3.
 
 ## References
 
