@@ -1,6 +1,6 @@
 # code49-decoder
 
-Code49 Decoder **(For PV4 puzzle only)**
+Code49 Decoder **(For [Arknights](https://ak.hypergryph.com/) PV4 puzzle only)**
 
 Thanks to [lukecyca](https://github.com/lukecyca)'s [code49 encoder](https://github.com/lukecyca/code49)
 
